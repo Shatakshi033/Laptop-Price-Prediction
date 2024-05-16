@@ -20,3 +20,10 @@ Performance Metric
 1. R2 Score
 
 2. Mean Absolute Error
+
+# Display
+<img width="407" alt="1" src=["https://user-images.githubusercontent.com/63099028/183035027-a8e3e365-7d37-4ed1-93d3-02ecd44ff668.PNG](https://github.com/Shatakshi033/Laptop-Price-Prediction/blob/main/Screenshot%20(2).png)">
+
+# Predicted Price
+
+<img width="938" alt="2" src="[https://user-images.githubusercontent.com/63099028/180611810-97d7b279-f1b0-4f62-9469-4f01b931e1f6.PNG](https://github.com/Shatakshi033/Laptop-Price-Prediction/blob/main/Screenshot%20(3).png)">
