@@ -22,8 +22,8 @@ Performance Metric
 2. Mean Absolute Error
 
 # Display
-
+<img width="560" alt="2" src="Screenshot (2).png">
 
 # Predicted Price
 
-<img width="938" alt="2" src="Screenshot (3).png">
+<img width="560" alt="2" src="Screenshot (3).png">
